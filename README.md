@@ -1,5 +1,9 @@
 # John Erickson
 
+With a unquenchable thirst to learn new things and more important support of my loving wife, I decided to seek out a career change. In August of 2016 I attended a coding bootcamp, completing a 16-week intensive Full Stack Web Development curriculum. Throughout the Bootcamp I learned programming funamentals using the Ruby programming language and how to build state of the art web pages, and desktop applications using HTML5, CSS3, and JavaScript
+
+I currently work as a Learning and Development Specialist at PNC where I assist in determining learning needs and objectives for various departments within the University. Acting as liaison between two technology teams I develop custom web-based solutions using several web application technologies.
+
 ## Tech Stack
 
 * HTML5
@@ -9,8 +13,9 @@
 * jQuery
 * Bootstrap 4
 
-##
+## Where to Find ***ME*** Online
 
+* [Website](https://johnerickson.netlify.com/)
 * [LinkedIn](https://www.linkedin.com/in/john-erickson-70b3715)
 * [GitHub](https://github.com/HeresJohnny5)
 * [CodePen](https://codepen.io/HeresJohnny5/pens/public/)

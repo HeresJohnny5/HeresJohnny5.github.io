@@ -1,6 +1,7 @@
 # John Erickson
 ## Experience
 ### Learning and Development Specialist
+#### PNC, Pittsburgh, PA, May 2017 - Current
 * Designs, Implements, and evaluates learning solutions such as learning portals, virtual classroom material, training videos, web-based training and a
 variety of other applications.
 * Assist in determining learning needs and objectives for various employees.
@@ -11,6 +12,7 @@ JavaScript, jQuery, and Bootstrap 4.
 * Assist in evaluating employees' learning performance and related improvements.
 
 ### Soware Apprentice
+#### Mined Minds, Waynesburg, PA, November 2016 - May 2017
 * Collaborated with designers, developers, and project lead(s) working on both web and mobile applications throughout all phases of development,
 from product inception to production.
 * Implemented web interaction design best practices, with a focus on consistency and usability.
@@ -21,6 +23,7 @@ pair-programming.
 * Mentored and trained Mined Minds students with concepts of soware development throughout 16-week Full Stack Bootcamp.
 
 ### Student Success Advisor
+#### The Art Institute of Pittsburgh Online Division, Pittsburgh, PA, February 2008 - July 2016
 * Managed student academic counsel from new student enrollment through student graduation in accordance with state and federal accreditation,
 company policies, and regulations consistent with the highest ethical standards.
 * Conducted interviews, pursued qualified candidates for enrollment, and determined appropriateness of candidates for admissions based upon career

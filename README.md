@@ -1,5 +1,15 @@
 # John Erickson
+
+## Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Bootstrap 4
+
 ## Experience
+
 ### Learning and Development Specialist
 #### PNC, Pittsburgh, PA, May 2017 - Current
 * Designs, Implements, and evaluates learning solutions such as learning portals, virtual classroom material, training videos, web-based training and a

@@ -1,5 +1,5 @@
 # John Erickson
-## Learning and Development Specialist - *PNC*
+## Learning and Development Specialist
 * Designs, Implements, and evaluates learning solutions such as learning portals, virtual classroom material, training videos, web-based training and a
 variety of other applications.
 * Assist in determining learning needs and objectives for various employees.
@@ -9,7 +9,7 @@ JavaScript, jQuery, and Bootstrap 4.
 * Ensure the delivery of learning courses and programs through suitable methodologies, such as individual coaching and classroom training.
 * Assist in evaluating employees' learning performance and related improvements.
 
-## Soware Apprentice - *Mined Minds*
+## Soware Apprentice
 * Collaborated with designers, developers, and project lead(s) working on both web and mobile applications throughout all phases of development,
 from product inception to production.
 * Implemented web interaction design best practices, with a focus on consistency and usability.
@@ -19,7 +19,7 @@ from product inception to production.
 pair-programming.
 * Mentored and trained Mined Minds students with concepts of soware development throughout 16-week Full Stack Bootcamp.
 
-## Student Success Advisor - *The Art Institute of Pittsburgh*
+## Student Success Advisor
 * Managed student academic counsel from new student enrollment through student graduation in accordance with state and federal accreditation,
 company policies, and regulations consistent with the highest ethical standards.
 * Conducted interviews, pursued qualified candidates for enrollment, and determined appropriateness of candidates for admissions based upon career

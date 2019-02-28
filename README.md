@@ -1,12 +1,21 @@
 # John Erickson
 
-## Skills
+## Tech Stack
 
 * HTML5
 * CSS3
 * JavaScript
+* ES6
 * jQuery
 * Bootstrap 4
+
+##
+
+* [LinkedIn](https://www.linkedin.com/in/john-erickson-70b3715)
+* [GitHub](https://github.com/HeresJohnny5)
+* [CodePen](https://codepen.io/HeresJohnny5/pens/public/)
+* [FreeCodeCamp](https://www.freecodecamp.org/heresjohnny5)
+* [Twitter](https://twitter.com/ericksonjohn01)
 
 ## Experience
 

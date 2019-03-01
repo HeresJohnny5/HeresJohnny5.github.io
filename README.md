@@ -13,7 +13,7 @@ I currently work as a Learning and Development Specialist at PNC where I assist 
 * jQuery
 * Bootstrap 4
 
-## Where to Find ***ME*** Online
+## Where to Find ***[ME](https://johnerickson.netlify.com/)*** Online
 
 * [Website](https://johnerickson.netlify.com/)
 * [LinkedIn](https://www.linkedin.com/in/john-erickson-70b3715)

@@ -24,12 +24,12 @@ I currently work as a Learning and Development Specialist at PNC where I assist 
 
 ## Projects
 
-Project | Tech Stack Used | Code
------------- | ------------- | -------------
-[Tic Tac Toe](https://mytictactoegame.herokuapp.com/) | HTML, CSS, Ruby | [GitHub](https://github.com/HeresJohnny5/Tic-Tac-Toe)
-[Omnifood](https://omnifoodj5.netlify.com/) | HTML, CSS, JavaScript, jQuery | [GitHub](https://github.com/HeresJohnny5/Omnifood)
-[Color Guessing Game](https://color-guessing-game.netlify.com/) | HTML, CSS, JavaScript | [GitHub](https://github.com/HeresJohnny5/colorGame)
-[Todo List](https://my-todo-list-js.netlify.com/) | HTML, CSS, JavaScript, jQuery | [GitHub](https://github.com/HeresJohnny5/toDoList)
+Project | Tech Stack Used | Project Description | Code
+------------ | ------------- | ------------- | -------------
+[Tic Tac Toe](https://mytictactoegame.herokuapp.com/) | HTML, CSS, Ruby | While attending Bootcamp I was tasked with creating a fully functional game of Tic Tac Toe using the Ruby programming language. The user has the ability to play against the computer in three varying difficulties: Easy, Medium or Hard. During this process I was introduced to coding methodologies ranging from but not limited to Test-Driven Development, Object-Oriented Design, Pair Programming, Algorithms and much more. Feeling lucky? Play the computer on the hard difficulty. Don't say I didn't warn you. | [GitHub](https://github.com/HeresJohnny5/Tic-Tac-Toe)
+[Omnifood](https://omnifoodj5.netlify.com/) | HTML, CSS, JavaScript, jQuery | Wanting to better understand web design I created a fictional food delivery site from concept to production. With the aide of a Udemy course I learned how to create proper HTML5 semantics able to successfully pass validation, how to create attention grabbing CSS3 using animation, how to use both JavaScript and jQuery to create user-interface functionality, the importance of user accessibility across multiple platforms, how to create custom responsive web design using media queries, how to optimize media so that the site responds quickly and how to use keywords and meta tags to maximize search engine optimization. | [GitHub](https://github.com/HeresJohnny5/Omnifood)
+[Color Guessing Game](https://color-guessing-game.netlify.com/) | HTML, CSS, JavaScript | There’s no question jQuery can help developers traverse the DOM more easily by simplifying common tasks such as DOM manipulation. However recent updates to JavaScript have made many developers reconsider using jQuery, a large library where most functionality while useful goes unused. Throughout this project I learned how to manipulate the DOM using vanilla JavaScript creating a stylish game where the user attempt to pick a color based on RGB values. | [GitHub](https://github.com/HeresJohnny5/colorGame)
+[Todo List](https://my-todo-list-js.netlify.com/) | HTML, CSS, JavaScript, jQuery | If you’re a developer you understand the never ending list of todos, so what better way to keep track of what activities still need completed, not to mention feel accomplished when a todo is marked complete than through a custom built To-Do application? Throughout this project I used jQuery to manipulate the DOM creating a To-Do application where the user can create, complete, and trash todos. | [GitHub](https://github.com/HeresJohnny5/toDoList)
 
 ## Experience
 

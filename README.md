@@ -31,11 +31,6 @@ Project | Tech Stack Used
 [Color Guessing Game](https://color-guessing-game.netlify.com/) | HTML, CSS, JavaScript
 [Todo List](https://my-todo-list-js.netlify.com/) | HTML, CSS, JavaScript, jQuery
 
-* [Tic Tac Toe](https://mytictactoegame.herokuapp.com/)
-* [Omnifood](https://omnifoodj5.netlify.com/)
-* [Color Guessing Game](https://color-guessing-game.netlify.com/)
-* [Todo List](https://my-todo-list-js.netlify.com/)
-
 ## Experience
 
 ### Learning and Development Specialist

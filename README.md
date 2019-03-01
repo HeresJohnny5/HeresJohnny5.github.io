@@ -26,10 +26,10 @@ I currently work as a Learning and Development Specialist at PNC where I assist 
 
 Project | Tech Stack Used
 ------------ | -------------
-[Tic Tac Toe](https://mytictactoegame.herokuapp.com/) | HTML, CSS, Ruby
-[Omnifood](https://omnifoodj5.netlify.com/) | HTML, CSS, JavaScript, jQuery
-[Color Guessing Game](https://color-guessing-game.netlify.com/) | HTML, CSS, JavaScript
-[Todo List](https://my-todo-list-js.netlify.com/) | HTML, CSS, JavaScript, jQuery
+[Tic Tac Toe](https://mytictactoegame.herokuapp.com/) | HTML, CSS, Ruby | [GitHub](https://github.com/HeresJohnny5/Tic-Tac-Toe)
+[Omnifood](https://omnifoodj5.netlify.com/) | HTML, CSS, JavaScript, jQuery | [GitHub](https://github.com/HeresJohnny5/Omnifood)
+[Color Guessing Game](https://color-guessing-game.netlify.com/) | HTML, CSS, JavaScript | [GitHub](https://github.com/HeresJohnny5/colorGame)
+[Todo List](https://my-todo-list-js.netlify.com/) | HTML, CSS, JavaScript, jQuery | [GitHub](https://github.com/HeresJohnny5/toDoList)
 
 ## Experience
 

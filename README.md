@@ -22,6 +22,13 @@ I currently work as a Learning and Development Specialist at PNC where I assist 
 * [FreeCodeCamp](https://www.freecodecamp.org/heresjohnny5)
 * [Twitter](https://twitter.com/ericksonjohn01)
 
+## Projects
+
+* [Tic Tac Toe](https://mytictactoegame.herokuapp.com/)
+* [Omnifood](https://omnifoodj5.netlify.com/)
+* [Color Guessing Game](https://color-guessing-game.netlify.com/)
+* [Todo List](https://my-todo-list-js.netlify.com/)
+
 ## Experience
 
 ### Learning and Development Specialist
